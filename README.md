@@ -2,7 +2,8 @@ Submoduletest
 =============
 ### Native addon to illustrate issue with node/node-gyp/npm (v0.6.15)
 
-The purpose of this repository is to illustrate an issue with v0.6.15 of node.
+The purpose of this repository is to illustrate an issue (specifically,
+issue [3113](https://github.com/joyent/node/issues/3113) with v0.6.15 of node.
 
 Issue Description
 -----------------
